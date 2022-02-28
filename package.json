@@ -1,0 +1,24 @@
+{
+  "name": "financeme",
+  "version": "1.0.0",
+  "description": "Sample app from Newline book \"Beginners Guide to Typescript\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bladexr8/FinanceMe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bladexr8/FinanceMe/issues"
+  },
+  "homepage": "https://github.com/bladexr8/FinanceMe#readme",
+  "devDependencies": {
+    "ts-node": "^10.5.0",
+    "typescript": "^4.5.5"
+  }
+}
